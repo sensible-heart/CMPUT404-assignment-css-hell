@@ -27,7 +27,7 @@ hr {
 }
 
 div.page-header{
-	background-image: url("HeaderPhoto.jpg");
+	background-image: url("Images/HeaderPhoto.jpg");
 	padding: 6em;
 }
 
@@ -62,7 +62,7 @@ h1.sidebar, p.sidebar {
 }
 @media (min-width: 768px) {
 	div.page-header{
-		margin: 0;	  
+		margin: 0;
 		border-bottom: 1em solid #D4D3D1;
 	}
 	div.page-body {
@@ -83,7 +83,7 @@ h1.sidebar, p.sidebar {
 	div.about, div.professionalHistory, div.skills{
 		position: relative;
 		width: 70%;
-		margin: auto; 
+		margin: auto;
 	}
 	div.about {
 		flex-direction: row !important;

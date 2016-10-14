@@ -9,7 +9,7 @@
 }
 
 body {
-	background-image: url("corgi.gif");
+	background-image: url("Images/corgi.gif");
 }
 
 head {
@@ -18,7 +18,7 @@ head {
 }
 
 div.page-header{
-	background-image: url("NYAN_CAT.gif");
+	background-image: url("Images/NYAN_CAT.gif");
 	padding: 6em;
 }
 
@@ -38,7 +38,7 @@ div.content{
 }
 
 div.sidebar {
-	background-image: url("corgiAndPumpkin.gif");
+	background-image: url("Images/corgiAndPumpkin.gif");
 	order: -1;
 	margin-left: 1em;
 	margin-bottom: 1em;
@@ -61,7 +61,7 @@ h1.sidebar {
   div.about, div.professionalHistory, div.skills{
     position: relative;
     width: 60%;
-    margin: auto; 
+    margin: auto;
   }
   div.sidebar {
     /* 12em is the width of the columns */
@@ -98,11 +98,11 @@ div.about {
 	flex-direction: row;
 	align-items: flex-start;
 	flex-wrap: wrap;
-	background-image: url("uglyBackground.gif");
+	background-image: url("Images/uglyBackground.gif");
 }
 
 div.professionalHistory {
-	background-image: url("seizure.gif");
+	background-image: url("Images/seizure.gif");
 	margin-top: 1em;
 	margin-bottom: 1em;
 }
@@ -140,7 +140,7 @@ h1.technologies{
 }
 
 div.skills {
-	background-image: url("matrix.gif");
+	background-image: url("Images/matrix.gif");
 }
 
 .shrink{
